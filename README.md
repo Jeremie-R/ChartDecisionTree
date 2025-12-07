@@ -1,7 +1,7 @@
 # How to choose a chart -- Chart decision tree
 
-These documents are complementary to my medium article on 
-How to choose and create your chart and data visualisation for any project.
+These documents are complementary to my medium article on <br/>
+[How to choose and create your chart and data visualisation for any project](https://medium.com/user-experience-design-1/how-to-choose-the-right-chart-question-based-decision-tree-405c17095699).
 
 ___
 
