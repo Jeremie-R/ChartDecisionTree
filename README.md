@@ -10,8 +10,8 @@ ___
 
 
 ![tree](/Tree.png "chart decision tree")
-[Download the tree as PDF](/matrix.pdf)
+[Download the tree as PDF](/Tree.pdf)
 
 
 ![snail](/Snail.png "chart decision tree matrix")
-[Download the snail as PDF](/matrix.pdf)
+[Download the snail as PDF](/Snail.pdf)
