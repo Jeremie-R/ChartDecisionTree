@@ -5,8 +5,8 @@ How to choose and create your chart and data visualisation for any project.
 
 ___
 
-![Matrix](/matrix.png "chart decision tree matrix")
-[Download the matrix as PDF](/matrix.pdf)
+![Matrix](/Matrix.png "chart decision tree matrix")
+[Download the matrix as PDF](/Matrix.pdf)
 
 
 ![tree](/Tree.png "chart decision tree")
